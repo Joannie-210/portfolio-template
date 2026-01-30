@@ -34,7 +34,7 @@ export const projects = [
     img: "https://i.pinimg.com/originals/be/f4/1a/bef41a7d5a877841bbf7d8f9f0d42f14.gif",  
     github: "https://github.com/Joannie-210/Resume-Generator",
     link: "https://github.com/Joannie-210/Resume-Generator",
-    techs: ["JavaScript", "React", "Tailwind"],
+    techs: ["JavaScript", "React", "TailwindCSS"],
   },
   {
     id: 2,
@@ -58,7 +58,7 @@ export const projects = [
     img: "https://i.pinimg.com/originals/54/b5/24/54b52468335fd6eb935e330eb3197b25.gif",
     github: "https://github.com/Joannie-210/Green-Grove-Project",
     link: "https://green-grove-project.vercel.app/",
-    techs: [ "React", "TaileindCSS", "leafletJS" ],
+    techs: [ "React", "TailwindCSS", "leafletJS" ],
   },
   {
     id: 4,
@@ -128,23 +128,10 @@ export const socialMedia = [
   {
     id: 2,
     img: "assets/linkedin.svg",
-    link: "",
+    link: "https://www.linkedin.com/in/joanna-enoch-frontend-dev/",
   },
-  {
-    id: 3,
-    img: "assets/web.svg",
-    link: "https://codewithty.dev",
-  },
-  {
-    id: 4,
-    img: "assets/insta.svg",
-    link: "https://www.instagram.com/joanna.bleeds.ink/",
-  },
-  {
-    id: 5,
-    img: "assets/link.svg",
-    link: "https://github.com/codewithty",
-  },
+ 
+  
 ];
 
 export const skills = [

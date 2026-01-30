@@ -16,7 +16,7 @@ const Contact = () => {
           </h2>
         </Reveal>
 
-        <a className="mt-10" href="https://wa.me/234812509988">
+        <a className="mt-10" href="https://wa.me/2348125099888">
           <Button
             title="Let's connect"
             icon={<img src="assets/send.svg" />}
