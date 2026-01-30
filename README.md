@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-  <a href="https://codewithty.dev/" target="_blank">
+  <a href="https://cwt.build/" target="_blank">
   </a>
   <br />
 
@@ -19,7 +19,7 @@
     </a>
   </div>
 
-  <h3 align="center">CodeWithTy Developer Portfolio Template</h3>
+  <h3 align="center">CWT Developer Portfolio Template</h3>
   <p align="center">A modern, professional, and tech-focused portfolio template built for developers who want to showcase their skills and projects with style. Perfect for tech enthusiasts, web developers, and cybersecurity professionals.</p>
 </div>
 
@@ -30,20 +30,20 @@
 3. 🛠️ [Features](#features)
 4. 🚀 [Getting Started](#getting-started)
 5. 🌟 [Portfolio Inspiration](#portfolio-inspiration)
-6. 🎓 [About CodeWithTy](#about-codewithty)
+6. 🎓 [About CWT](#about-CWT)
 7. 📝 [More Resources](#more-resources)
 
 ## 💡 Why This Project?
 
 Hey there, future tech leader! 👋
 
-At CodeWithTy, we believe that every developer deserves a portfolio that truly represents their skills and potential. Whether you're just starting your coding journey or you're a seasoned professional looking to showcase your expertise in web development, cybersecurity, blockchain, or mobile development - this template has got you covered.
+At CWT, we believe that every developer deserves a portfolio that truly represents their skills and potential. Whether you're just starting your coding journey or you're a seasoned professional looking to showcase your expertise in web development, cybersecurity, blockchain, or mobile development - this template has got you covered.
 
 We've seen too many talented developers struggle with creating the perfect portfolio, spending more time on design than actually building amazing projects. That's why we created this **modern, responsive, and professional** template that lets your work speak for itself.
 
 ## ⚙️ Tech Stack
 
-Built with the same cutting-edge technologies we teach at CodeWithTy:
+Built with the same cutting-edge technologies we teach at CWT:
 
 - **Next.js 14**: The React framework for production-grade applications
 - **Framer Motion**: Smooth, professional animations that impress recruiters
@@ -97,8 +97,8 @@ Make sure you have these tools installed:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/codewithty/portfolio-template.git
-cd codewithty-portfolio-template
+git clone https://github.com/cwtofficial/portfolio-template.git
+cd cwt-portfolio-template
 ```
 
 ### Install Dependencies
@@ -142,11 +142,11 @@ Deploy easily to:
 
 Check out these amazing portfolios built by us:
 
-- [Tech Professional Examples](https://codewithty.dev/projects) - Industry-standard portfolio designs
+- [Tech Professional Examples](https://cwt.build/projects) - Industry-standard portfolio designs
 
-## 🎓 About CodeWithTy
+## 🎓 About CWT
 
-**CodeWithTy** is more than just a coding education platform - we're a community of tech enthusiasts, problem solvers, and future innovators. We specialize in:
+**CWT** is more than just a coding education platform - we're a community of tech enthusiasts, problem solvers, and future innovators. We specialize in:
 
 🌐 **Web Development**: Building responsive, interactive websites with modern frameworks
 
@@ -160,7 +160,7 @@ Check out these amazing portfolios built by us:
 
 💼 **Tech Consulting**: Strategic technology guidance for businesses
 
-### Why Choose CodeWithTy?
+### Why Choose CWT?
 
 ✅ **Expert-Led Training**: Learn from industry professionals with real-world experience
 
@@ -172,21 +172,21 @@ Check out these amazing portfolios built by us:
 
 ✅ **Cutting-Edge Curriculum**: Stay updated with the latest tech trends
 
-Ready to join our community? **[Start your journey with CodeWithTy](https://codewithty.dev/contact)**
+Ready to join our community? **[Start your journey with CWT](https://cwt.build/contact)**
 
 ## 📝 More Resources
 
 ### Learning Resources
 
-- [CodeWithTy Academy](https://codewithty.dev/academy) - Comprehensive tech courses
+- [CWT Academy](https://cwt.build/academy) - Comprehensive tech courses
 - [Next.js Documentation](https://nextjs.org/docs) - Framework documentation
 - [Framer Motion Guide](https://www.framer.com/motion/) - Animation library
 - [TailwindCSS Docs](https://tailwindcss.com/docs) - Styling framework
 
 ### Support
 
-- 📧 Email: [hello@codewithty.dev](mailto:hello@codewithty.dev)
-- 🌐 Website: [codewithty.dev](https://codewithty.dev)
+- 📧 Email: [hello@cwt.build](mailto:hello@cwt.build)
+- 🌐 Website: [cwt.build](https://cwt.build)
 - 📱 Follow us on social media for tips and updates
 
 ---
@@ -212,7 +212,7 @@ This project is licensed under the CWT License.
   
   <p><em>"Empowering the next generation of tech innovators"</em></p>
   
-  <a href="https://codewithty.dev">
-    <img src="https://img.shields.io/badge/Visit%20CodeWithTy-FF6B6B?style=for-the-badge&logo=globe&logoColor=white" alt="Visit CodeWithTy" />
+  <a href="https://cwt.build">
+    <img src="https://img.shields.io/badge/Visit%20CWT-FF6B6B?style=for-the-badge&logo=globe&logoColor=white" alt="Visit CWT" />
   </a>
 </div>
