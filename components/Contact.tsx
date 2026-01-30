@@ -11,13 +11,12 @@ const Contact = () => {
         <Reveal>
           <h2>
             Contact{" "}
-            <span className=" bg-gradient-to-r from-purple to-red-700 bg-clip-text text-transparent">
-              me.
-            </span>
+           <span className="bg-gradient-to-r from-purple to-[#FFD700] via-purple bg-clip-text text-transparent">
+            me.</span>
           </h2>
         </Reveal>
 
-        <a className="mt-10" href="mailto:hello@codewithty.dev">
+        <a className="mt-10" href="https://wa.me/234812509988">
           <Button
             title="Let's connect"
             icon={<img src="assets/send.svg" />}

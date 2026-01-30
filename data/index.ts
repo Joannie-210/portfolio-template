@@ -101,7 +101,7 @@ export const workExperience = [
     id: 1,
     company: "Aptech Port-Harcourt",
     title: "Team lead/ Software Developer",
-    desc: "Learnt and developed relevant software technologies. Coordinated team activities and managed project deliverables.",
+    desc: "Learnt and developed skills in relevant software technologies. Coordinated team activities and managed project deliverables.",
     className: "md:col-span-2",
     location: "Port-Harcourt, Nigeria",
     period: "August 2024 - Till Date",
@@ -123,12 +123,12 @@ export const socialMedia = [
   {
     id: 1,
     img: "assets/git.svg",
-    link: "https://github.com/codewithty",
+    link: "https://github.com/Joannie-210",
   },
   {
     id: 2,
     img: "assets/linkedin.svg",
-    link: "#",
+    link: "",
   },
   {
     id: 3,
@@ -136,12 +136,12 @@ export const socialMedia = [
     link: "https://codewithty.dev",
   },
   {
-    id: 3,
+    id: 4,
     img: "assets/insta.svg",
-    link: "https://www.instagram.com/codewithty",
+    link: "https://www.instagram.com/joanna.bleeds.ink/",
   },
   {
-    id: 3,
+    id: 5,
     img: "assets/link.svg",
     link: "https://github.com/codewithty",
   },
