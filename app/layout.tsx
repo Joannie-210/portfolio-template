@@ -1,10 +1,10 @@
 import type { Metadata, Viewport } from "next";
-import { Poppins } from "next/font/google";
+import { Bricolage_Grotesque } from "next/font/google";
 import "./globals.css";
 
-const poppins = Poppins({
+const poppins = Bricolage_Grotesque({
   subsets: ["latin"],
-  weight: ["100", "200", "400", "700", "900"],
+  weight: [ "200", "800"]
 });
 
 export default function RootLayout({
@@ -14,13 +14,13 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" suppressHydrationWarning>
-      <head>
+      {/* <head>
         <link
           rel="icon"
           href="https://codewithty.dev/images/logo.png"
           sizes="any"
         />
-      </head>
+      </head> */}
       <body className={`${poppins.className}`}>{children}</body>
     </html>
   );
@@ -34,9 +34,9 @@ export const viewport: Viewport = {
 };
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://codewithty.dev"),
+  // metadataBase: new URL("https://codewithty.dev"),
   title: {
-    default: "CodeWithTy ✷ Tech Development Portfolio",
+    default: "Joanna's portfolio",
     template: "%s - CodeWithTy",
   },
   description:
@@ -56,11 +56,11 @@ export const metadata: Metadata = {
     "tech education",
     "coding bootcamp",
   ],
-  icons: {
-    icon: "./favicon.ico",
-    apple: "./apple-touch-icon.png",
-  },
-  applicationName: "CodeWithTy Portfolio Template",
+  // icons: {
+  //   icon: "./favicon.ico",
+  //   apple: "./apple-touch-icon.png",
+  // },
+  applicationName: "Joanna Enoch",
   authors: [
     {
       name: "CodeWithTy Team",

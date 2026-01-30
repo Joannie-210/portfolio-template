@@ -8,7 +8,6 @@ export const navItems = [
 export const myTechStack = [
   "HTML",
   "CSS",
-  "SCSS",
   "Tailwind",
   "ShadCn/UI",
   "Figma",
@@ -17,50 +16,49 @@ export const myTechStack = [
   "React",
   "Next.js",
   "TypeScript",
-  "Jest",
+  "SQL",
+  "MongoDB",
+  "Java",
   "Git",
-  "TanStack Query",
-  "CI/CD",
-  "Jira",
-  "Agile",
+  "Github"
 ];
 
 export const projects = [
   {
     id: 1,
-    title: "FitLorem: Your Lorem Buddy in Code",
+    title: "Automated Resume Generator",
     description:
-      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatumofficiis, eum modi inventore natus velit voluptates laudantium nam!",
+      "An application that generates professional resumes based on user input, utilizing AI to format and optimize content for job applications.",
     className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
     titleClassName: "justify-end",
-    img: "https://i.pinimg.com/originals/be/f4/1a/bef41a7d5a877841bbf7d8f9f0d42f14.gif",
-    github: "https://github.com/codewithty",
-    link: "https://www.instagram.com/codewithty",
+    img: "https://i.pinimg.com/originals/be/f4/1a/bef41a7d5a877841bbf7d8f9f0d42f14.gif",  
+    github: "https://github.com/Joannie-210/Resume-Generator",
+    link: "https://github.com/Joannie-210/Resume-Generator",
     techs: ["JavaScript", "React", "NodeJS", "Express", "MongoDB", "Tailwind"],
   },
   {
     id: 2,
-    title: "TimeLorem: Never Miss a Lorem Ipsum",
+    title: "Campus Connect: ",
     description:
-      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatum, officiis, eum modi inventore natus velit voluptates laudantium nam.",
+      "A platform that connects students and faculty within a university campus, enabling communication, resource sharing, and event organization.",
     className: "lg:col-span-2 md:col-span-3 md:row-span-2",
     titleClassName: "justify-start",
     img: "https://i.pinimg.com/originals/84/f6/d1/84f6d14f1f88d34d3956150d19060d3a.gif",
-    github: "https://github.com/codewithty",
-    link: "https://codewithty/academy",
+    github: "https://github.com/Joannie-210/CampusConnect",
+    link: "https://campus-connect-hazel-eight.vercel.app/",
     techs: ["JavaScript", "React", "NodeJS", "AWS", "GitHub", "Jira"],
   },
   {
     id: 3,
-    title: "Lorem & CWT: A Creative Lorem Approach",
+    title: "Green Groves",
     description:
-      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatum, officiis, eum modi inventore natus velit voluptates laudantium nam.",
+      "An e-learning platform dedicated to teaching gardening to enthusiasts, educating them on gardening tips and principles.",
     className: "lg:col-span-2 md:col-span-3 md:row-span-2",
     titleClassName: "justify-center",
     img: "https://i.pinimg.com/originals/54/b5/24/54b52468335fd6eb935e330eb3197b25.gif",
-    github: "https://github.com/codewithty",
-    link: "https://codewithty.dev",
-    techs: ["TypeScript", "React", "NextJS", "CSS", "AWS", "GitHub"],
+    github: "https://github.com/Joannie-210/Green-Grove-Project",
+    link: "https://green-grove-project.vercel.app/",
+    techs: ["Javascript", "React", "NextJS", "CSS", "AWS", "GitHub"],
   },
   {
     id: 4,
@@ -184,8 +182,13 @@ export const socialMedia = [
 export const skills = [
   "TypeScript",
   "React",
-  "Redux",
-  "NodeJS",
+  "JavaScript",
   "NextJS",
   "Tailwind",
 ];
+
+export const skills2 = [
+  "HTML",
+  "CSS",
+  "Javascript"
+]

@@ -1,7 +1,7 @@
 "use client";
 
 import React from "react";
-import Button from "./Button";
+import CvButton from "./CvButton";
 
 interface DownloadCVProps {
   fileUrl: string;
@@ -10,7 +10,7 @@ interface DownloadCVProps {
 
 const DownloadCV: React.FC<DownloadCVProps> = ({ fileUrl, fileName }) => {
   return (
-    <Button
+    <CvButton
       title="My CV"
       icon={<img src="assets/download.svg" />}
       position="right"

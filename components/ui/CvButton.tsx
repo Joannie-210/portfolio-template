@@ -1,6 +1,6 @@
 import React from "react";
 
-const Button = ({
+const CvButton = ({
   title,
   icon,
   position,
@@ -21,7 +21,7 @@ const Button = ({
       <span className="absolute inset-[-1000%] animate-[spin_2s_linear_infinite] bg-[conic-gradient(from_90deg_at_50%_50%,white_0%,purple_50%,#E2CBFF_100%)]" />
       <span
         className={`inline-flex h-full w-full cursor-pointer items-center justify-center rounded-3xl
-             bg-gradient-to-br from-[purple] via-purple-600  to-purple px-5 text-sm font-medium text-white backdrop-blur-3xl gap-2 ${otherClasses}`}
+             bg-gradient-to-br from-[#FFD700] via-[#A97142] to-[#FFD700] px-5 text-sm font-medium text-white backdrop-blur-3xl gap-2 ${otherClasses}`}
       >
         {position === "left" && icon}
         <span className="font-extrabold">
@@ -32,4 +32,4 @@ const Button = ({
   );
 };
 
-export default Button;
+export default CvButton;

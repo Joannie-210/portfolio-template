@@ -8,7 +8,7 @@ const About = () => (
     <Reveal>
       <h3 className="mb-10">
         About{" "}
-        <span className="bg-gradient-to-r from-purple to-red-700 bg-clip-text text-transparent">
+        <span className="bg-gradient-to-r from-purple to-[#FFD700] via-purple bg-clip-text text-transparent">
           me.
         </span>
       </h3>
@@ -20,8 +20,8 @@ const About = () => (
         className="flex-col text-left p-3 md:p-5 lg:p-10 gap-5 min-h-full"
       >
         <p>
-          Hey! I&apos;m <strong>(Your Name)</strong> a web designer, developer,
-          and movie enthusiast.
+          Hey! I&apos;m <strong>Joanna Enoch</strong> a web designer, developer,
+          and writer.
         </p>
         <p>
           With a background that blends design and development, I love creating
@@ -30,14 +30,14 @@ const About = () => (
         </p>
         <p>
           I’m always up for great conversations, whether it’s about a new
-          project, tech trends, or even the latest action flick. Feel free to
+          project, tech trends, or even the latest psychological thriller. Feel free to
           reach out. Let’s connect!
         </p>
       </Sparkle>
 
       <div className="relative overflow-hidden rounded-3xl border border-white/[0.1] transition duration-200 shadow-input dark:shadow-none flex flex-col space-y-4 p-10">
         <p className="text-lg lg:text-3xl font-extrabold">
-          <span className="bg-gradient-to-r from-purple to-red-700 bg-clip-text text-transparent">
+          <span className="bg-gradient-to-r from-purple to-[#FFD700] via-purple bg-clip-text text-transparent">
             My Tech Stack!
           </span>
         </p>

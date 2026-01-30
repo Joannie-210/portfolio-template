@@ -3,6 +3,8 @@
 import { projects } from "@/data";
 import { BentoGrid, BentoGridItem } from "./ui/BentoGrid";
 import Reveal from "./ui/Reveal";
+import Image from "next/image";
+
 
 const Projects = () => {
   return (
@@ -10,7 +12,7 @@ const Projects = () => {
       <Reveal>
          <h3>
           Recent{" "}
-          <span className="bg-gradient-to-r from-purple to-red-700 bg-clip-text text-transparent">
+          <span className="bg-gradient-to-r from-purple to-[#FFD700] via-purple bg-clip-text text-transparent">
             projects.</span>
         </h3>
       </Reveal>
